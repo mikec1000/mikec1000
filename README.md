@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Your+Awesome+Banner+Here)
-## 👋 About MeHi, I’m **[Mike Campbell]**! I’m a passionate developer who loves building things with code.- 🌱 I’m currently learning [Spanglish].- 🔭 I’m working on [Legos].- 💬 Ask me about [Lord of the Rings].- 📫 Reach me at: [email].
+## 👋 About Me
+Hi, I’m Mike Campbell! I’m a developer and Network Engineer who loves building things with code.- 🌱 
 ## 🛠️ My Skills- **Languages:** [e.g., JavaScript, Python, golang]- **Frameworks:** [e.g., React, Django]- **Tools:** [e.g., Git, Docker, VSCode]
 ## 📈 My GitHub Stats![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 ## 🌟 Fun Facts- I love [hobby or fun fact about yourself].- My favorite programming meme is:
